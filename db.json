@@ -1,7 +1,7 @@
 {
   "cart": [
-    { "productID": 1, "productTitle": "Product 1", "quantity": 1 },
-    { "productID": 2, "productTitle": "Product 2", "quantity": 3 }
+    { "id": 1, "productTitle": "Product 1", "quantity": 1 },
+    { "id": 2, "productTitle": "Product 2", "quantity": 3 }
   ],
   "products": [
     { "id": "1", "title": "Product 1", "description": "Product 1 description", "price": 20.5 },
